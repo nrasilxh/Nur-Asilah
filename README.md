@@ -9,6 +9,14 @@
 
 ---
 
+### 🛠️ Skills
+
+- Development : PHP, HTML, JavaScript, Python, C++
+- Frameworks : React, Angular, Bootstrap
+- Cybersecurity : Kali Linux, Wireshark, Nmap, Autopsy, FTK Imager
+- Soft Skills: Strong Communication, Problem-Solving
+
+---
 ### 📫 Let's Connect :
 - **LinkedIn**: [Nur Asilah](https://www.linkedin.com/in/nur-asilah-3764341b2/)
 - **Email**: [nurasilahazhar19@gmail.com](mailto:nurasilahazhar19@gmail.com)
